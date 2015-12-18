@@ -1,4 +1,4 @@
-ÒòÎª²ÉÓÃtar.gzÑ¹Ëõ¸ñÊ½, ÎÄ¼þ±È½Ï´ó,ÔÝÊ±·Åµ½°Ù¶ÈÍøÅÌ,ÒÔºó¸üÐÂµ½ÕâÀï ÏÂÔØµØÖ·ÊÇ: http://pan.baidu.com/s/1dEjE6rR
+å› ä¸ºé‡‡ç”¨tar.gzåŽ‹ç¼©æ ¼å¼, æ–‡ä»¶æ¯”è¾ƒå¤§,æš‚æ—¶æ”¾åˆ°ç™¾åº¦ç½‘ç›˜,ä»¥åŽæ›´æ–°åˆ°è¿™é‡Œ ä¸‹è½½åœ°å€æ˜¯: http://pan.baidu.com/s/1dEjE6rR
 
 this is vlc-android version all source code .compiled by LanSoSdk team.
 compile step by :https://wiki.videolan.org/AndroidCompile#Requirements
@@ -15,19 +15,19 @@ in codes, we add some MediaPlayer motheds, so you can calling libvlc like this:
 	belove demo in VideoPlayerActivity2.java. 	
 	Hope Enjoy.
 -------------------------->
-ÎªÁË´ó¼Ò¸üºÃµÄµ÷ÓÃ,ÎÒÃÇ¶ÔMediaPlayerÀàÔö¼ÓÁËÒ»Ð©´úÂë, ÕâÑù´ó¼Ò¿ÉÒÔÖ±½Ó²Î¿¼VideoPlayerActivity2.javaÖÐµÄÐ´·¨, À´Ê¹ÓÃvlc-android.
+ä¸ºäº†å¤§å®¶æ›´å¥½çš„è°ƒç”¨,æˆ‘ä»¬å¯¹MediaPlayerç±»å¢žåŠ äº†ä¸€äº›ä»£ç , è¿™æ ·å¤§å®¶å¯ä»¥ç›´æŽ¥å‚è€ƒVideoPlayerActivity2.javaä¸­çš„å†™æ³•, æ¥ä½¿ç”¨vlc-android.
 
-±àÒëÍêÈ«°´ÕÕ:
-		https://wiki.videolan.org/AndroidCompile#Requirements µÄ²Ù×÷²½Öè½øÐÐ.
-	(Èç¹ûÄúÊÇ³õÑ§Õß,½¨ÒéÐÂ½¨Ò»¸öÐéÄâ»ú,ÍêÈ«±àÒë)
+ç¼–è¯‘å®Œå…¨æŒ‰ç…§:
+		https://wiki.videolan.org/AndroidCompile#Requirements çš„æ“ä½œæ­¥éª¤è¿›è¡Œ.
+	(å¦‚æžœæ‚¨æ˜¯åˆå­¦è€…,å»ºè®®æ–°å»ºä¸€ä¸ªè™šæ‹Ÿæœº,å®Œå…¨ç¼–è¯‘)
 
-´Ë´úÂëÊÇLanSoSdk±àÒëºó,ÍêÈ«Ã»ÓÐcleanµÄ´úÂë,±àÒë¹ý³ÌÖÐµÄ¸÷ÖÖÅäÖÃÎÄ¼þ,.oÎÄ¼þ¶¼ÊÇ´æÔÚµÄ.
-Èç¹ûÄúÏëºÜ¿ìµÄ±àÒë,ÇëÉèÖÃºÍÎÒÃÇÍêÈ«Ò»ÖÂµÄÂ·¾¶,°üÀ¨ubuntuµÄÓÃ»§Ãû.ÎÄ¼þÂ·¾¶ÊÇ/home/sno/vlc_android17/xxxÔ´´úÂë.
+æ­¤ä»£ç æ˜¯LanSoSdkç¼–è¯‘åŽ,å®Œå…¨æ²¡æœ‰cleançš„ä»£ç ,ç¼–è¯‘è¿‡ç¨‹ä¸­çš„å„ç§é…ç½®æ–‡ä»¶,.oæ–‡ä»¶éƒ½æ˜¯å­˜åœ¨çš„.
+å¦‚æžœæ‚¨æƒ³å¾ˆå¿«çš„ç¼–è¯‘,è¯·è®¾ç½®å’Œæˆ‘ä»¬å®Œå…¨ä¸€è‡´çš„è·¯å¾„,åŒ…æ‹¬ubuntuçš„ç”¨æˆ·å.æ–‡ä»¶è·¯å¾„æ˜¯/home/sno/vlc_android17/xxxæºä»£ç .
 
 	
-ÎÒÃÇµÄ±àÒë¹ý³Ì
-   ÏµÍ³win7ÖÐ°²×°ÐéÄâ»ú,ÀïÃæ×°ubuntu12.04(64Î»)(Í¬ÊÂÓÃubuntu14.04Ò»Ñù¿ÉÒÔ±àÒë³É¹¦).
-  ¸÷ÖÖ»·¾³ÈçÏÂ(my env is):
+æˆ‘ä»¬çš„ç¼–è¯‘è¿‡ç¨‹
+   ç³»ç»Ÿwin7ä¸­å®‰è£…è™šæ‹Ÿæœº,é‡Œé¢è£…ubuntu12.04(64ä½)(åŒäº‹ç”¨ubuntu14.04ä¸€æ ·å¯ä»¥ç¼–è¯‘æˆåŠŸ).
+  å„ç§çŽ¯å¢ƒå¦‚ä¸‹(my env is):
    	export JAVA_HOME=/home/sno/android_tools/jdk1.7.0_51
 		export JRE_HOME=/home/sno/android_tools/jdk1.7.0_51/jre
 		export ANDROID_ABI=armeabi-v7a
@@ -36,29 +36,29 @@ in codes, we add some MediaPlayer motheds, so you can calling libvlc like this:
 		export ANDROID_NDK=/home/sno/android_tools/ndk/android-ndk-r10e
 
  
-Çë´ó¼ÒÔÚgithubµÄissueÖÐÌÖÂÛ¸÷ÖÖÓöµ½µÄÎÊÌâ,¾¡Á¿²ÉÓÃÓ¢ÎÄ,ÒÔ±ã¹úÍâµÄ¸÷ÖÖµÄ´óÅ£¿´µ½, Ò»ÆðÌÖÂÛ.
+è¯·å¤§å®¶åœ¨githubçš„issueä¸­è®¨è®ºå„ç§é‡åˆ°çš„é—®é¢˜,å°½é‡é‡‡ç”¨è‹±æ–‡,ä»¥ä¾¿å›½å¤–çš„å„ç§çš„å¤§ç‰›çœ‹åˆ°, ä¸€èµ·è®¨è®º.
 
-(ÍÅ¶Ó½éÉÜ)	
- º¼ÖÝÀ¶ËÉ¿Æ¼¼ÓÐÏÞ¹«Ë¾.LanSoSdkÍÅ¶Ó, ×¨Òµ×ö¶àÃ½ÌåÒôÊÓÆµµÄ·½°¸¹«Ë¾.°üÀ¨ÊÓÆµ²É¼¯,±à¼­,±àÂë, ´«Êä,½âÂë,´¦Àí,²¥·ÅµÈ.
+(å›¢é˜Ÿä»‹ç»)	
+ æ­å·žè“æ¾ç§‘æŠ€æœ‰é™å…¬å¸.LanSoSdkå›¢é˜Ÿ, ä¸“ä¸šåšå¤šåª’ä½“éŸ³è§†é¢‘çš„æ–¹æ¡ˆå…¬å¸.åŒ…æ‹¬è§†é¢‘é‡‡é›†,ç¼–è¾‘,ç¼–ç , ä¼ è¾“,è§£ç ,å¤„ç†,æ’­æ”¾ç­‰.
    
- ÓÉÓÚÊ¹ÓÃvlc×ö¹ý¶à¸öÏîÄ¿, ÒÔÏÂÊÇÎÒÃÇÕë¶Ôvlc-android×öµÄ¸ß¼¶¹¦ÄÜ,»¶Ó­ÉÌÎñºÏ×÷.	
- ÑÝÊ¾µØÖ·:https://github.com/LanSoSdk/LanSoSdkPlayDemo
+ ç”±äºŽä½¿ç”¨vlcåšè¿‡å¤šä¸ªé¡¹ç›®, ä»¥ä¸‹æ˜¯æˆ‘ä»¬é’ˆå¯¹vlc-androidåšçš„é«˜çº§åŠŸèƒ½,æ¬¢è¿Žå•†åŠ¡åˆä½œ.	
+ æ¼”ç¤ºåœ°å€:https://github.com/LanSoSdk/LanSoSdkPlayDemo
  		
- 1,ÉèÖÃÊÓÆµÏÂÔØ»º³åÆ÷´óÐ¡,ÉèÖÃÊÓÆµ»º³åÊ±³¤.		
- 2,ÊÓÆµ½ØÆÁ,µ¥Ö¡²¥·Å.	
- 3,ÊÓÆµ²¥·ÅËÙ¶È¿Éµ÷,ÈÎÒâËÙ¶È¿Éµ÷.
- 4,ÈíÓ²½â×Ô¶¯ÇÐ»».ÍêÈ«Ö§³ÖÈíÓ²½â.²¢Èí½â¹¦ÄÜÖ§³ÖNEONÖ¸Áî,¶àÏß³Ì½âÂë.
- 5,ÊÓÆµÂ¼ÖÆ.	
- 6,ÍøÂçÊÓÆµÖ§³Ö±ß²¥·Å¡¢±ßÏÂÔØ¹¦ÄÜ. Ö§³Ö¿ìËÙÈ«ËÙÏÂÔØ.----ÍøÂç²»Ì«ºÃ,»òÊ¹ÓÃ3G/4GÇé¿öÏÂÒ²¿ÉÒÔÁ÷³©²¥·Å.	
- 7,ÍøÂçÊÓÆµ,²é¿´µ±Ç°»º³å°Ù·Ö±È, ²é¿´µ±Ç°ÍøËÙ.----	
- 8,Ö§³Ö¶Ô±È¶È, ±¥ºÍ¶È,É«µ÷,ÑÕÉ«ÌáÈ¡,¾µÏñ,¶¯Ì¬¼à²â,·ÖÆÁµÈ12ÖÖ¹¦ÄÜ,²¢¿É¶¨ÖÆÂË¾µÐ§¹û.  ----ÀàËÆÃëÅÄ,ÃÀÅÄ,¿ìÊÖµÄ¹¦ÄÜ.	
- 9,Ö§³Ö×óÓÒ3D, ºìÀ¶3D²¥·Å.	
- 10,RTSP×öÊÓÆµÖ±²¥Ê±µÄÑÓ³ÙÎÊÌâ(¶¨ÖÆ).	
- 11,RTSP²¥·ÅÊ±ÂíÈü¿ËÑÏÖØµÄÎÊÌâ(¶¨ÖÆ).	
- 12,Ó²¼þÔÚ²¿·ÖÊÖ»úÉÏ²»Ö§³ÖµÄÎÊÌâ(¶¨ÖÆ).	
- 13,M3U8ÍøÂç²¥·ÅÊ±crashµÄÎÊÌâ(¶¨ÖÆ).
- 14,½â¾öÄúÏîÄ¿ÖÐÓöµ½µÄ¸÷ÖÖÊÓÆµÍøÂçµÈÎÊÌâ(¶¨ÖÆ).		
+ 1,è®¾ç½®è§†é¢‘ä¸‹è½½ç¼“å†²å™¨å¤§å°,è®¾ç½®è§†é¢‘ç¼“å†²æ—¶é•¿.		
+ 2,è§†é¢‘æˆªå±,å•å¸§æ’­æ”¾.	
+ 3,è§†é¢‘æ’­æ”¾é€Ÿåº¦å¯è°ƒ,ä»»æ„é€Ÿåº¦å¯è°ƒ.
+ 4,è½¯ç¡¬è§£è‡ªåŠ¨åˆ‡æ¢.å®Œå…¨æ”¯æŒè½¯ç¡¬è§£.å¹¶è½¯è§£åŠŸèƒ½æ”¯æŒNEONæŒ‡ä»¤,å¤šçº¿ç¨‹è§£ç .
+ 5,è§†é¢‘å½•åˆ¶.	
+ 6,ç½‘ç»œè§†é¢‘æ”¯æŒè¾¹æ’­æ”¾ã€è¾¹ä¸‹è½½åŠŸèƒ½. æ”¯æŒå¿«é€Ÿå…¨é€Ÿä¸‹è½½.----ç½‘ç»œä¸å¤ªå¥½,æˆ–ä½¿ç”¨3G/4Gæƒ…å†µä¸‹ä¹Ÿå¯ä»¥æµç•…æ’­æ”¾.	
+ 7,ç½‘ç»œè§†é¢‘,æŸ¥çœ‹å½“å‰ç¼“å†²ç™¾åˆ†æ¯”, æŸ¥çœ‹å½“å‰ç½‘é€Ÿ.----	
+ 8,æ”¯æŒå¯¹æ¯”åº¦, é¥±å’Œåº¦,è‰²è°ƒ,é¢œè‰²æå–,é•œåƒ,åŠ¨æ€ç›‘æµ‹,åˆ†å±ç­‰12ç§åŠŸèƒ½,å¹¶å¯å®šåˆ¶æ»¤é•œæ•ˆæžœ.  ----ç±»ä¼¼ç§’æ‹,ç¾Žæ‹,å¿«æ‰‹çš„åŠŸèƒ½.	
+ 9,æ”¯æŒå·¦å³3D, çº¢è“3Dæ’­æ”¾.	
+ 10,RTSPåšè§†é¢‘ç›´æ’­æ—¶çš„å»¶è¿Ÿé—®é¢˜(å®šåˆ¶).	
+ 11,RTSPæ’­æ”¾æ—¶é©¬èµ›å…‹ä¸¥é‡çš„é—®é¢˜(å®šåˆ¶).		
+ 12,ç¡¬ä»¶åœ¨éƒ¨åˆ†æ‰‹æœºä¸Šä¸æ”¯æŒçš„é—®é¢˜(å®šåˆ¶).		
+ 13,M3U8ç½‘ç»œæ’­æ”¾æ—¶crashçš„é—®é¢˜(å®šåˆ¶).	
+ 14,è§£å†³æ‚¨é¡¹ç›®ä¸­é‡åˆ°çš„å„ç§è§†é¢‘ç½‘ç»œç­‰é—®é¢˜(å®šåˆ¶).			
  
  
  
- Emai: support@lansongtech.com, QQÈº 235842416; ÉÌÎñÁªÏµ1852600324(busy)
+ Emai: support@lansongtech.com, QQç¾¤ 235842416; å•†åŠ¡è”ç³»1852600324(busy)

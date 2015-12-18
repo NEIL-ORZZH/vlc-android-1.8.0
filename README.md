@@ -41,8 +41,10 @@ in codes, we add some MediaPlayer motheds, so you can calling libvlc like this:
 (团队介绍)	
  杭州蓝松科技有限公司.LanSoSdk团队, 专业做多媒体音视频的方案公司.包括视频采集,编辑,编码, 传输,解码,处理,播放等.
    
- 由于使用vlc做过多个项目, 以下是我们针对vlc-android做的高级功能,欢迎商务合作.演示地址:https://github.com/LanSoSdk/LanSoSdkPlayDemo
- 1,设置视频下载缓冲器大小,设置视频缓冲时长.	
+ 由于使用vlc做过多个项目, 以下是我们针对vlc-android做的高级功能,欢迎商务合作.	
+ 演示地址:https://github.com/LanSoSdk/LanSoSdkPlayDemo
+ 		
+ 1,设置视频下载缓冲器大小,设置视频缓冲时长.		
  2,视频截屏,单帧播放.	
  3,视频播放速度可调,任意速度可调.
  4,软硬解自动切换.完全支持软硬解.并软解功能支持NEON指令,多线程解码.
@@ -54,9 +56,8 @@ in codes, we add some MediaPlayer motheds, so you can calling libvlc like this:
  10,RTSP做视频直播时的延迟问题(定制).	
  11,RTSP播放时马赛克严重的问题(定制).	
  12,硬件在部分手机上不支持的问题(定制).	
- 13,M3U8网络播放时crash的问题(定制).	
- 14,playlist时自由拖动的问题(定制).	
- 15,解决您项目中遇到的各种视频网络等问题(定制).		
+ 13,M3U8网络播放时crash的问题(定制).
+ 14,解决您项目中遇到的各种视频网络等问题(定制).		
  
  
  
